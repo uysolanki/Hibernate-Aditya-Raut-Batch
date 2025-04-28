@@ -18,5 +18,7 @@
 	<mapping class="com.itp.ITPBatch2Hibernate.entity.Student"/>
 	<mapping class="com.itp.ITPBatch2Hibernate.entity.State"/>
 	<mapping class="com.itp.ITPBatch2Hibernate.entity.ChiefMinister"/>	
+	<mapping class="com.itp.ITPBatch2Hibernate.entity.Dept"/>
+	<mapping class="com.itp.ITPBatch2Hibernate.entity.Emp"/>	
 </session-factory>
 </hibernate-configuration>
