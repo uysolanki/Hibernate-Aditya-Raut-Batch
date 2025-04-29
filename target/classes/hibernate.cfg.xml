@@ -19,6 +19,8 @@
 	<mapping class="com.itp.ITPBatch2Hibernate.entity.State"/>
 	<mapping class="com.itp.ITPBatch2Hibernate.entity.ChiefMinister"/>	
 	<mapping class="com.itp.ITPBatch2Hibernate.entity.Dept"/>
-	<mapping class="com.itp.ITPBatch2Hibernate.entity.Emp"/>	
+	<mapping class="com.itp.ITPBatch2Hibernate.entity.Emp"/>
+	<mapping class="com.itp.ITPBatch2Hibernate.entity.Actor"/>	
+	<mapping class="com.itp.ITPBatch2Hibernate.entity.Movie"/>	
 </session-factory>
 </hibernate-configuration>

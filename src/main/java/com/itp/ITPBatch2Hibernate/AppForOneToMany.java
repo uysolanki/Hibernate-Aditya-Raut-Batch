@@ -69,8 +69,7 @@ public class AppForOneToMany
     	session1.save(d1);
     	session1.save(d2);
     	
-    	
-    	
+    
     	tx.commit();
     	
     	session1.close();
